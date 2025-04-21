@@ -14,7 +14,7 @@
   
   .hero-section {
     position: relative;
-    background-image: url('images/bg-img1.jpeg'); /* <- Add your background image path */
+    background-image: url('bg-img1.jpeg'); /* <- Add your background image path */
     background-size: cover;
     background-position: center;
     height: 50vh;
